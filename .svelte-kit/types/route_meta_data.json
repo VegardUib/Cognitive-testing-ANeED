@@ -1,0 +1,14 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/inlang/[language].json": [
+		"src/routes/inlang/[language].json/+server.ts"
+	],
+	"/[lang]": [
+		"src/routes/[lang]/+page.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	]
+}

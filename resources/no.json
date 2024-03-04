@@ -1,0 +1,18 @@
+{
+	"welcome": "Velkommen",
+	"description": "Besøk <a href=\"https://kit.svelte.dev\">kit.svelte.dev</a> for å lese dokumentasjon.",
+	"locales": {
+		"description": "Velg språk",
+		"en": "English",
+		"es": "Español",
+		"no": "Norsk"
+	},
+	"themes": {
+		"dark": "Mørk",
+		"light": "Lys",
+		"description": {
+			"dark": "Skift til mørkt tema",
+			"light": "Skift til lyst tema"
+		}
+	}
+}
